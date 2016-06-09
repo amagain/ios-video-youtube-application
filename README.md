@@ -1,6 +1,6 @@
 # Video YT
 This is the best iOS youtube player implement in Swift program language. It's can play and download unlimited video from Youtube.
-You can watch live app at: https://itunes.apple.com/us/app/apple-store/id1086349582?pt=118052683&ct=iosdevgroup&mt=8
+You can watch live app at: https://itunes.apple.com/us/app/apple-store/id1086349582?pt=118052683&ct=github&mt=8
 
 ## Features:
 
