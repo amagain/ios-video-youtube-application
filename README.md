@@ -45,6 +45,13 @@ Give me a coffee cup if it's useful.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NHAFTJD9A6EVS)
 
+## Contact
+Contact me if you have and question or make a friend :)
+
+Facebook: https://www.facebook.com/profile.php?id=100008324837124
+
+Twitter: https://twitter.com/v2tmobile
+
 ## Licence
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
