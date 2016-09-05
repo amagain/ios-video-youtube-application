@@ -48,7 +48,7 @@ Give me a coffee cup if it's useful.
 ## Contact
 Contact me if you have and question or make a friend :)
 
-Facebook: https://www.facebook.com/profile.php?id=100008324837124
+Facebook: https://fb.com/v2tmobile
 
 Twitter: https://twitter.com/v2tmobile
 
